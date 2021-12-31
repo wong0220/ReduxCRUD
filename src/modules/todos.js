@@ -7,6 +7,9 @@ import logger from 'redux-logger'
 // const DELETE_TODO = 'todos/DELETE_TODO'
 // const UPDATE_TODO = 'todos/UPDATE_TODO'
 
+/* 덕스구조 연습
+
+*/
 // export const addTodo = text => ({
     
 //     type: ADD_TODO,
@@ -49,6 +52,9 @@ import logger from 'redux-logger'
 // }
 
 // const rootReducer = combineReducers({todos})
+
+
+//리덕스 툴킷 연습//
 
 export const todosSlice = createSlice({
     name:'todosReducer',
