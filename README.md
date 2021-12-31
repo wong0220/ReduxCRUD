@@ -1,4 +1,4 @@
-#INTRODUCE
+# INTRODUCE
 
 리덕스를 활용한 투두리스트 CRUD 기능 구현
 
